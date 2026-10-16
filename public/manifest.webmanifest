@@ -1,0 +1,13 @@
+{
+  "name": "RydeHaul",
+  "short_name": "RydeHaul",
+  "description": "Car rental, tracking, and long term services",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF9F0",
+  "theme_color": "#121413",
+  "icons": [
+    { "src": "favicon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
